@@ -1,6 +1,6 @@
 {
   "name": "@mjt-engine/color",
-  "version": "2025.3.15-1051",
+  "version": "2025.10.25-1107",
   "sideEffects": false,
   "description": "color module",
   "main": "./dist/index.js",
